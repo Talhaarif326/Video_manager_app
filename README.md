@@ -1,6 +1,6 @@
-# YouTube Manager App 🎬
+# Video Manager App 🎬
 
-A Python-based command-line application for managing YouTube video collections with full CRUD operations and SQLite database integration.
+A Python-based command-line application for managing video collections with full CRUD operations and SQLite database integration.
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ A Python-based command-line application for managing YouTube video collections w
 - **OOP Principles** - Clean object-oriented design
 
 ## 📁 Project Structure
-youtube_manager/
+Video_manager/
 ├── main.py               # Application entry point
 ├── database.py           # Database connection & setup
 ├── video_models.py       # Video class (OOP model)
